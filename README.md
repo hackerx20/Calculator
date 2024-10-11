@@ -40,7 +40,7 @@ python --version
 ```
 ### If python is not installed->
 ### If you are running in windows system:
-> Download Latest version of python from the Internet
+Download Latest version of python from the Internet
 
 ### If you are running in linux system:
 > For Debian-based System (Ubuntu, Mint and other related distributions):
