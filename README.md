@@ -5,10 +5,8 @@
 A simple Graphical User Interface (GUI) calculator built using Python and the Tkinter library. This calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
-***
 Key features includes:
 * Supports basic arithematic operations
-  ***
   * Addition
   * Subtraction
   * Multiplication
@@ -83,7 +81,7 @@ python3 Calculator.py
 3. Use the Clear button or the Backspace key in the keyboard to clear the current input.
 
 ## Technologies:
-*** 
+
 A list of technologies used in the project:
 * Python 3.x: The programming language used to build the logic of the calculator.
 * Tkinter: Python's built-in library for creating GUI applications.
